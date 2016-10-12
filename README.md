@@ -9,9 +9,9 @@ I've also put together a list of some of the shortcuts I use when I'm editing. I
 * Outline		Ctrl-o		Cmd-0
 * AutoComplete	Ctrl-Space	Ctrl-Space
 * Delete Line	Ctrl-d		Cmd-d
-* Auto-Help	Ctrl-1		Ctrl-1
-* Save	Ctrl-s	Cmd-s
-* Move-Line	Alt-Up/Alt-Down	Alt-Up/Alt-Down
+* Auto-Help		Ctrl-1		Ctrl-1
+* Save			Ctrl-s	Cmd-s
+* Move-Line		Alt-Up/Alt-Down	Alt-Up/Alt-Down
 * Duplicate		Alt+Ctrl+Up/Down	Alt+Ctrl+Up/Down
 * Refractor		Alt+Shift+r	Cmd+Alt+r
 * Go-to Line	Ctrl-L	Cmd-L
@@ -22,8 +22,9 @@ I've also put together a list of some of the shortcuts I use when I'm editing. I
 * Move By word	Ctrl+Left/Right	Alt+Left/Right
 * End Of Line	End	Cmd-Right
 * Beginning Of Line	Home	Cmd-Left
-* "Go Back"	Alt-Left	Cmd-[
+* "Go Back"		Alt-Left	Cmd-[
 * Go Forward	Alt-Right	Cmd-]
+
 To finish up, we'll solve the following interview problem. I'll do some live coding to hopefully show some of the editing commands in action.
  
 Given a singly linked list, modify the value of first half nodes such that :
